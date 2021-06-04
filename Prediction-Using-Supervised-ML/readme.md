@@ -8,4 +8,4 @@
 **Links:**
 
 * **Youtube:** 
-* **Github:** https://github.com/Akshitbagri/Prediction-Using-Supervised-ML
+* **Github:** https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Prediction-Using-Supervised-ML
