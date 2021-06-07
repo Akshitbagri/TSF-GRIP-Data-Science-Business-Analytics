@@ -8,4 +8,4 @@
 **Links:**
 
 * **Youtube:** 
-* **Github:** https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Exploratory%20Data%20Analysis%20-%20Retail
+* **Github:** https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Exploratory%20Data%20Analysis%20-%20Terrorism
