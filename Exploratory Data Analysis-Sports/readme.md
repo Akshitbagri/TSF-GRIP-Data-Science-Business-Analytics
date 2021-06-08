@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Retail
+# Exploratory Data Analysis - Sports
 * **Task:** Performing ‘Exploratory Data Analysis’ on dataset ‘IPL’-{Deliveries and Matches}
 * **Libraries Used:** numpy, matplotlib, pandas, seaborn, plotly
 * **Dataset Used:** ‘IPL’-{Deliveries and Matches}
