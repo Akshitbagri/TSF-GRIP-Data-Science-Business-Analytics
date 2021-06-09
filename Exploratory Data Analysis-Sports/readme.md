@@ -7,5 +7,5 @@
 
 **Links:**
 
-* **Youtube:** 
+* **Youtube:** https://youtu.be/lnbU9QPrDxg
 * **Github:** https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Exploratory%20Data%20Analysis-Sports
