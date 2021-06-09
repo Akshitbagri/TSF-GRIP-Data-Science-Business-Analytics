@@ -7,5 +7,5 @@
 
 **Links:**
 
-* **Youtube:** 
+* **Youtube:** https://youtu.be/tK8-OnB5tEY
 * **Github:** https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Exploratory%20Data%20Analysis%20-%20Terrorism
