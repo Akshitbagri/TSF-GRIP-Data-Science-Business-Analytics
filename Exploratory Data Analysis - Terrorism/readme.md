@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Retail
+# Exploratory Data Analysis - Terrorism
 * **Task:** Performing ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 * **Libraries Used:** numpy, matplotlib, pandas, seaborn, plotly
 * **Dataset Used:** Global Terrorism

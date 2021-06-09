@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Retail
+# Exploratory Data Analysis - Sports
 * **Task:** Performing ‘Exploratory Data Analysis’ on dataset ‘IPL’-{Deliveries and Matches}
 * **Libraries Used:** numpy, matplotlib, pandas, seaborn, plotly
 * **Dataset Used:** ‘IPL’-{Deliveries and Matches}
@@ -8,4 +8,4 @@
 **Links:**
 
 * **Youtube:** 
-* **Github:**https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Exploratory%20Data%20Analysis-Sports
+* **Github:** https://github.com/Akshitbagri/TSF-GRIP-Data-Science-Business-Analytics/tree/main/Exploratory%20Data%20Analysis-Sports
